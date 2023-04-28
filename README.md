@@ -1,6 +1,6 @@
 # navALinkActivebyUrl
 
-## 현재 url과 navbar a의 url을 비교하여 해당 nav active class 추가 스크립트
+## 현재 url과 navbar a의 href을 비교하여 해당 nav active class 추가 스크립트
 
 ### code
 ```javascript
